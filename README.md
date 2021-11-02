@@ -80,6 +80,7 @@ A few examples for illustration:
 ## Future Improvements
 
 * Ensemble modeling - combining different models with different weights (e.g. LightGB, Random Forest and XGBoost) to improve the overall accuracy 
+* Using deep learning methods with tensorflow or pytorch
 
 
 
