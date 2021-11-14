@@ -12,7 +12,7 @@ The competition host doesn't allow to share the data externally but it can be ac
 ## Part 1. Exploratory Data Analysis
 
 EDA.py file has the python script to explore the data. Main findings: 
-* The competition host provides 2 datasets: transaction and identity data
+* There are 2 datasets: transaction and identity data
 * Transaction data shape: rows 590540, columns 394; identity data: rows 144233, columns 41
 * 41% of the data is missing from the transaction file and 35% from the identity file. 
 * The identity file only includes 24% of the clients from the transaction data, rest of the information is missing 
